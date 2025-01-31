@@ -1,13 +1,16 @@
- I’m **@77acid303** ===> **Berlin** 
-- 👀 I’m interested in Techno & Trance music.
-- 🌱 I’m currently learning Python coding.
-- 💞️ I’m looking to collaborate on finacial programs.
-- 📫 How to reach me > instagram: ralf_protobase
-- 😄 Pronouns: Protobase, Collidr
-- ⚡ Fun fact: Earth is a dodecahedron! 
+▸ @77acid303 => Berlin 🌍
+
+➔ Techno + Trance 🔊
+➔ learning Python coding 🐍
+➔ I would like to work with someone on financial programmes. Gladly crypto → AI supported → open mind → 🤯
+➔ Contact me ==> instagram: ralf_protobase 📫
+➔ As music producer → Protobase + Collidr
+➔ Earth is a dodecahedron! ❋
+
+▸ Current: I am a BOT🤖 worker!
 
 <!---
 77acid303/77acid303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p> **@77acid303** ==> **Berlin** &#127757;</p>
+
