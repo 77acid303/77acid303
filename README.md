@@ -20,4 +20,6 @@
 
 ![END GIF](images/gifs/end.gif)
 
+![Run GIF](images/gifs/run.gif)
+
 <p>&lt;!---<br />77acid303/77acid303 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br />You can click the Preview link to take a look at your changes.<br />---&gt;</p>
